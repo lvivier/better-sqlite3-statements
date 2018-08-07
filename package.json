@@ -1,0 +1,12 @@
+{
+  "name": "@lvivier/better-sqlite3-statements",
+  "version": "0.0.1",
+  "author": "Luke Vivier <luke@vivier.ca>",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "better-sqlite3": "^4.1.4"
+  },
+  "dependencies": {
+    "nanolru": "^1.0.0"
+  }
+}
